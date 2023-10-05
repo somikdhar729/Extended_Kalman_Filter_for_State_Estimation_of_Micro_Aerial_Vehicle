@@ -21,5 +21,6 @@ Update Step:
 * Updated state and covariance computed using Kalman gain and measurement residue
 
 # Results
-## Measurement Model (Position and Orientation from Vicon)
+## Part 1: Measurement update will be given by the position and orientation from VICON
+## Part 2: Measurement update will be given by using only the velocity from VICON
 
