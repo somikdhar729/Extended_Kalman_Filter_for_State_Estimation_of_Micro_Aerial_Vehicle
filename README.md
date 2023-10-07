@@ -4,7 +4,7 @@ This project implements an Extended Kalman Filter for Micro Aerial Vehicle to es
 # Process Flow
 1. Developed state-space system for the dynamic model
 2. Computed the Jacobian to handle the nonlinearity by approximating around the mean values.
-3. Implement discrete form of EKF to be implemented in Matlab
+3. Implement a discrete form of EKF to be implemented in Matlab
 
 # Explanation
 The EKF algorithm has two main steps:
@@ -22,5 +22,7 @@ Update Step:
 
 # Results
 ## Part 1: Measurement update will be given by the position and orientation from VICON
+![alt text](https://github.com/somikdhar729/Extended_Kalman_Filter_for_State_Estimation_of_Micro_Aerial_Vehicle/blob/main/KALMAN_FILTER_Dataset1.png?raw=true)
+
 ## Part 2: Measurement update will be given by using only the velocity from VICON
 
