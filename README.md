@@ -33,7 +33,7 @@ Update Step:
 
 #### Comments on the obtained results for the three datasets
 • For all three datasets, position, orientation, and velocity from the raw data and estimated states represent
-the uncertainty bounds reflect errors in the estimates
+the uncertainty bounds reflect errors in the estimates <br>
 • The gyroscopic and accelerometer bias are between -0.2 to 0.2
 
 
@@ -48,9 +48,9 @@ the uncertainty bounds reflect errors in the estimates
 ![alt text](https://github.com/somikdhar729/Extended_Kalman_Filter_for_State_Estimation_of_Micro_Aerial_Vehicle/blob/main/KALMAN_FILTER_Dataset9_part_2.png?raw=true)
 
 #### Comments on the obtained results for the three datasets
-• For all three datasets, position, orientation, and velocity from the raw data and estimated states represent
-the uncertainty bounds reflect errors in the estimates
-• The gyroscopic and accelerometer bias are between -0.2 to 0.2
+• For all three datasets, position, orientation, and velocity from the raw data and estimated states represent 
+the uncertainty bounds reflect errors in the estimates <br>
+• The gyroscopic and accelerometer bias are between -0.2 to 0.2 <br>
 • The measurement only captures the XYZ velocity of the system in the measurement model. This means it
 is very difficult for my Kalman filter to gain any information about the state of the orientation of the robot
 because it can’t really measure any quantities that would tell it information about its orientation.
