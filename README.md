@@ -23,10 +23,15 @@ Update Step:
 # Results
 ## Part 1: Measurement update will be given by the position and orientation from VICON
 ### Dataset 1
+
 ![alt text](https://github.com/somikdhar729/Extended_Kalman_Filter_for_State_Estimation_of_Micro_Aerial_Vehicle/blob/main/KALMAN_FILTER_Dataset1.png?raw=true)
+
 ### Dataset 4
+
 ![alt text](https://github.com/somikdhar729/Extended_Kalman_Filter_for_State_Estimation_of_Micro_Aerial_Vehicle/blob/main/KALMAN_FILTER_Dataset4.png?raw=true)
+
 ### Dataset 9
+
 ![alt text](https://github.com/somikdhar729/Extended_Kalman_Filter_for_State_Estimation_of_Micro_Aerial_Vehicle/blob/main/KALMAN_FILTER_Dataset9.png?raw=true)
 
 
